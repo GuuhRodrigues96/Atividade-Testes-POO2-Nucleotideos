@@ -5,10 +5,10 @@
  @authors Gustavo Rodrigues e Victor Martins
  *******************************************************************************/
 
-import java.io.IOException; // Import necessário
-import java.io.FileNotFoundException; // Import necessário
-import java.io.BufferedReader; // Import necessário
-import java.io.FileReader; // Import necessário
+import java.io.IOException;
+import java.io.FileNotFoundException;
+import java.io.BufferedReader;
+import java.io.FileReader;
 
 public class DNASequencer {
 
